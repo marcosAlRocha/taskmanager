@@ -1,0 +1,4 @@
+com/mrxatecnologia/taskmanager/controller/TaskController.class
+com/mrxatecnologia/taskmanager/model/Task.class
+com/mrxatecnologia/taskmanager/repository/TaskRepository.class
+com/mrxatecnologia/taskmanager/TaskmanagerApplication.class
